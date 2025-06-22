@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hexo.hechangjia.cn/2025/06/22/music/</loc>
-    
-    <lastmod>2025-06-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hexo.hechangjia.cn/music/index.html</loc>
     
     <lastmod>2025-06-22</lastmod>
@@ -92,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://hexo.hechangjia.cn/css/index.css</loc>
+    <loc>https://hexo.hechangjia.cn/css/var.css</loc>
     
     <lastmod>2025-06-22</lastmod>
     
@@ -101,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://hexo.hechangjia.cn/css/var.css</loc>
+    <loc>https://hexo.hechangjia.cn/css/index.css</loc>
     
     <lastmod>2025-06-22</lastmod>
     
