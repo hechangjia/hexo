@@ -89,9 +89,9 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include:
-exclude:
-ignore:
+# include:
+# exclude:
+# ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
@@ -105,4 +105,6 @@ theme: butterfly
 #   type: git
 #   repo: https://github.com/hechangjia/hexo.git
 #   branch: master
+deploy:
+  type: 
   

@@ -19,7 +19,7 @@ nav:
 menu:
   Home: / || fas fa-home
   #List||fas fa-list:
-  Music: /music/ || fas fa-music
+  #Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
 
 # --------------------------------------
@@ -205,13 +205,13 @@ post_copyright:
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 # Sponsor/reward
-reward:
-  enable: true
-  text: 给我买杯咖啡吧!
-  QR_code:
-    - img: /img/wepay.png
-      link:
-      text: wechat
+# reward:
+#   enable: true
+#   text: 给我买杯咖啡吧!
+#   QR_code:
+#     - img: /img/wepay.png
+#       link:
+#       text: wechat
     # - img: /img/alipay.jpg
     #   link:
     #   text: alipay

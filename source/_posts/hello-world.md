@@ -1,6 +1,5 @@
 ---
 title: Hello World
-cover: ./assets/images/cover_1.jpg
 math: true
 mermaid: true
 ---
