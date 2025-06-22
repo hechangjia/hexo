@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小镇错题家</title>
+  <icon>https://hexo.hechangjia.cn/icon.png</icon>
+  <subtitle>中国式的西西弗斯</subtitle>
+  <link href="https://hexo.hechangjia.cn/atom.xml" rel="self"/>
+  
+  <link href="https://hexo.hechangjia.cn/"/>
+  <updated>2025-06-22T10:29:07.338Z</updated>
+  <id>https://hexo.hechangjia.cn/</id>
+  
+  <author>
+    <name>贺昌嘉</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>music</title>
+    <link href="https://hexo.hechangjia.cn/2025/06/22/music/"/>
+    <id>https://hexo.hechangjia.cn/2025/06/22/music/</id>
+    <published>2025-06-22T10:26:22.000Z</published>
+    <updated>2025-06-22T10:29:07.338Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;梁博&quot;&gt;&lt;a href=&quot;#梁博&quot; class=&quot;headerlink&quot; title=&quot;梁博&quot;&gt;&lt;/a&gt;梁博&lt;/h1&gt;
+        &lt;div id=&quot;aplayer-IvhCYKvf&quot; class=&quot;aplayer aplayer-tag-marker&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://hexo.hechangjia.cn/2025/06/22/%E6%B5%8B%E8%AF%95/"/>
+    <id>https://hexo.hechangjia.cn/2025/06/22/%E6%B5%8B%E8%AF%95/</id>
+    <published>2025-06-22T08:20:24.000Z</published>
+    <updated>2025-06-22T09:24:31.988Z</updated>
+    
+    
+    <summary type="html">一份测试文档</summary>
+    
+    
+    
+    
+    <category term="测试" scheme="https://hexo.hechangjia.cn/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="你好" scheme="https://hexo.hechangjia.cn/tags/%E4%BD%A0%E5%A5%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://hexo.hechangjia.cn/2025/06/22/hello-world/"/>
+    <id>https://hexo.hechangjia.cn/2025/06/22/hello-world/</id>
+    <published>2025-06-22T02:35:23.723Z</published>
+    <updated>2025-06-22T09:43:19.707Z</updated>
+    
+    
+    <summary type="html">你好,hexo世界</summary>
+    
+    
+    
+    
+    <category term="测试" scheme="https://hexo.hechangjia.cn/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="color" scheme="https://hexo.hechangjia.cn/tags/color/"/>
+    
+  </entry>
+  
+</feed>
