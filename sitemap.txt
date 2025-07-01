@@ -1,3 +1,4 @@
+https://hexo.hechangjia.cn/tags/index.html
 https://hexo.hechangjia.cn/2025/06/22/%E6%B5%8B%E8%AF%95/
 https://hexo.hechangjia.cn/2025/06/22/hello-world/
 https://hexo.hechangjia.cn/%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1/index.html
@@ -6,8 +7,6 @@ https://hexo.hechangjia.cn/archives/index.html
 https://hexo.hechangjia.cn/%E5%9B%BE%E5%BA%93/index.html
 https://hexo.hechangjia.cn/FriendLink/index.html
 https://hexo.hechangjia.cn/about/index.html
-https://hexo.hechangjia.cn/categories/index.html
-https://hexo.hechangjia.cn/tags/index.html
 https://hexo.hechangjia.cn/css/var.css
 https://hexo.hechangjia.cn/css/index.css
 https://hexo.hechangjia.cn/
