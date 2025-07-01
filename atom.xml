@@ -6,7 +6,7 @@
   <link href="https://hexo.hechangjia.cn/atom.xml" rel="self"/>
   
   <link href="https://hexo.hechangjia.cn/"/>
-  <updated>2025-07-01T05:48:35.254Z</updated>
+  <updated>2025-07-01T07:26:19.593Z</updated>
   <id>https://hexo.hechangjia.cn/</id>
   
   <author>
@@ -21,12 +21,18 @@
     <link href="https://hexo.hechangjia.cn/2025/06/22/%E6%B5%8B%E8%AF%95/"/>
     <id>https://hexo.hechangjia.cn/2025/06/22/%E6%B5%8B%E8%AF%95/</id>
     <published>2025-06-22T08:20:24.000Z</published>
-    <updated>2025-07-01T05:48:35.254Z</updated>
+    <updated>2025-07-01T07:26:19.593Z</updated>
     
     
     <summary type="html">一份测试文档</summary>
     
     
+    
+    <category term="测试" scheme="https://hexo.hechangjia.cn/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="数学" scheme="https://hexo.hechangjia.cn/categories/%E6%B5%8B%E8%AF%95/%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="hexo" scheme="https://hexo.hechangjia.cn/categories/%E6%B5%8B%E8%AF%95/%E6%95%B0%E5%AD%A6/hexo/"/>
     
     
     <category term="测试" scheme="https://hexo.hechangjia.cn/tags/%E6%B5%8B%E8%AF%95/"/>
@@ -40,12 +46,16 @@
     <link href="https://hexo.hechangjia.cn/2025/06/22/hello-world/"/>
     <id>https://hexo.hechangjia.cn/2025/06/22/hello-world/</id>
     <published>2025-06-22T02:35:23.723Z</published>
-    <updated>2025-06-22T09:43:19.707Z</updated>
+    <updated>2025-07-01T07:25:58.985Z</updated>
     
     
     <summary type="html">你好,hexo世界</summary>
     
     
+    
+    <category term="测试" scheme="https://hexo.hechangjia.cn/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="hello-world" scheme="https://hexo.hechangjia.cn/categories/%E6%B5%8B%E8%AF%95/hello-world/"/>
     
     
     <category term="测试" scheme="https://hexo.hechangjia.cn/tags/%E6%B5%8B%E8%AF%95/"/>
