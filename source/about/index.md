@@ -1,6 +1,9 @@
 ---
-title: {{ title }}
-date: {{ date }}
+title: about
+limit:
+  type: null
+  value: null
+date: 2025-06-22 16:25:05
 updated:
 type:
 comments:
@@ -13,7 +16,4 @@ aside:
 aplayer:
 highlight_shrink:
 random:
-limit:
-  type:
-  value:
 ---

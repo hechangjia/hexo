@@ -1,8 +1,11 @@
 ---
-title: {{ title }}
-date: {{ date }}
+title: FriendLink
+limit:
+  type: null
+  value: null
+date: 2025-06-22 16:27:20
 updated:
-type:
+type: 'link'
 comments:
 description:
 keywords:
@@ -13,7 +16,4 @@ aside:
 aplayer:
 highlight_shrink:
 random:
-limit:
-  type:
-  value:
 ---

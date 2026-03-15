@@ -1,8 +1,11 @@
 ---
-title: {{ title }}
-date: {{ date }}
+title: tags
+limit:
+  type: null
+  value: null
+date: 2025-07-01 15:36:06
 updated:
-type:
+type: "tags"
 comments:
 description:
 keywords:
@@ -13,7 +16,4 @@ aside:
 aplayer:
 highlight_shrink:
 random:
-limit:
-  type:
-  value:
 ---

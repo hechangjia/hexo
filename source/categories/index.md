@@ -1,8 +1,11 @@
 ---
-title: {{ title }}
-date: {{ date }}
+title: categories
+limit:
+  type: null
+  value: null
+date: 2025-07-01 15:39:14
 updated:
-type:
+type: "categories"
 comments:
 description:
 keywords:
@@ -13,7 +16,4 @@ aside:
 aplayer:
 highlight_shrink:
 random:
-limit:
-  type:
-  value:
 ---

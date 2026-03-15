@@ -1,8 +1,11 @@
 ---
-title: {{ title }}
-date: {{ date }}
+title: archives
+limit:
+  type: null
+  value: null
+date: 2025-06-22 17:04:07
 updated:
-type:
+type: "archives"
 comments:
 description:
 keywords:
@@ -13,7 +16,4 @@ aside:
 aplayer:
 highlight_shrink:
 random:
-limit:
-  type:
-  value:
 ---

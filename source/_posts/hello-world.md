@@ -1,7 +1,15 @@
 ---
 title: Hello World
+cover: /img/cover/cover_1.jpg
+description: 你好,hexo世界
 math: true
 mermaid: true
+category:
+  - 测试
+  - hello-world
+tag: 
+  - test
+  - color
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
@@ -52,7 +60,15 @@ $$
 # Mermaid
 
 ```mermaid
-flowchart LR
-A --> B
+flowchart LR;
+A --> B;
+B --> C;
 ```
 
+
+
+# 测试站内跳转
+
+
+
+{% post_link 测试 数学%}
